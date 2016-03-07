@@ -2,7 +2,7 @@
 
 #Knibe øvelser
 
-##Group members
+##Gruppe medlemmer
 
 * Cecilie Madsen
 * Mathilde Steffansen
